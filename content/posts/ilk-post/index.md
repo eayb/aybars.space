@@ -34,3 +34,4 @@ Ortaya koyulan eforun makale haline getirilmesi en önemli faz.
 ## Zaman çizelgesi
 
 Bunu hazırken aklımdaki iş dışı tüm duyguları dışarı çıkarmak için derin bir nefes alıyorum. Okurken de öyle yapmalıyım. Her iki perşembe günü toplantılarım var. 
+
