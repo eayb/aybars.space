@@ -1,5 +1,5 @@
 ---
-title: "Değerlendirme"
+title: "Degerlendirme"
 # author: "aybars"
 date: "2028-08-18"
 summary: "Durum değerlendimesi."
