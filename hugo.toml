@@ -1,6 +1,6 @@
-baseURL = 'https://tomfran.github.io'
+baseURL = 'https://aybars.space'
 languageCode = 'en-us'
-title = 'Francesco Tomaselli'
+title = 'Aybars space'
 theme = 'typo'
 
 [taxonomies]
@@ -8,7 +8,7 @@ tag = 'tags'
 
 [params]
 # Home meta description
-description = "A tech-oriented personal blog curated by Francesco Tomaselli."
+description = "personal blog."
 
 # Appearance settings
 theme = 'auto'
