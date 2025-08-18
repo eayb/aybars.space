@@ -1,5 +1,5 @@
 ---
-title: "Probabilistic to-visit Queue2"
+title: "Degerlendirme"
 # author: "Francesco Tomaselli"
 # authorAvatarPath: "/avatar.jpeg"
 date: "2024-05-16"
