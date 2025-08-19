@@ -32,6 +32,6 @@ Elimde mekanik modelin hali hazırdaki termodinamik çerçeve ile çatışma ris
 # Manuscript hazırlaması
 Ortaya koyulan eforun makale haline getirilmesi en önemli faz. 
 ## Zaman çizelgesi
-
-Bunu hazırken aklımdaki iş dışı tüm duyguları dışarı çıkarmak için derin bir nefes alıyorum. Okurken de öyle yapmalıyım. Her iki perşembe günü toplantılarım var. 
+Bunu hazırken aklımdaki iş dışı tüm duyguları dışarı çıkarmak için derin bir nefes alıyorum. Okurken de öyle yapmalıyım. Her iki perşembe günü toplantılarım var.
+Carsamba gunu sabah termodinamik cerceve tamamen elimde olmali, cunku o gunu sadece manuscript yazmaya ayiracagim. Bugun okulda kodu tamamlayacagim. Aksam ise bu termodunamik cerceveyi sonlandiralim. Poztof yaklasmaliyim: ise, her saniyeye... Endiseli, kaygili ya da umursamaz, bosvermis degil aksine sadece pozitif
 
