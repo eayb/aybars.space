@@ -25,7 +25,7 @@ fedora
 
 niri
 
-waybar
+waybar - pomodoro timer- 50/10
 
 latex editor
 
