@@ -17,7 +17,7 @@ Hayat; içini dolduracak kadar çalışmanın, yeni şeyler öğrenmenin ve insa
 
 calendar
 
-logseq
+logseq - manual sync with eink tablet
 
 radio
 
