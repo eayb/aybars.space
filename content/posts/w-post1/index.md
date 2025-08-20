@@ -19,6 +19,8 @@ calendar
 
 logseq
 
+radio
+
 fedora
 
 niri
