@@ -35,4 +35,4 @@ sioyek
 
 jabref
 
-
+neovim
