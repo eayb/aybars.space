@@ -1,3 +1,17 @@
+---
+title: "aybars 2.0"
+# author: "aybars"
+# authorAvatarPath: "/avatar.jpeg"
+date: "2025-08-18"
+summary: "Degerlendirme"
+description: "Degerlendirme"
+toc: true
+readTime: true
+autonumber: true
+math: true
+tags: ["rust"]
+showTags: false
+---
 Çok uzun süre önce daha iyi bir EA'ya ulaşmak için neler yapabileceğimi düşünmeye başladım. Bilimsel bir yaklaşım, önce 'daha iyi'nin ne olduğunu tanımlamayı gerektirdi. Kısaca, 'daha iyi EA', hayattan keyif alan, her günü yaşadığı için kucaklayan ve özgüveni yüksek EA demekti. Beni bu arayışa iten, hayatta en kıymetli şey olarak gördüğüm 'yaşam süresini' çevresel etkenlerin beni savurabildiği şekilde geçirmek istemiyor olmamdı. Aslında bu, bana çok da düşünmek istemediğim bir zaman dilimi öncesindeki EA'yı hatırlatıyordu. Fakat ondan çok uzaklaşmıştım. Bu yüzden bu planı bir şarkı sözünden esinlenerek 'kendime ulaşmak' olarak isimlendirdim. Belki başlarda geçmişin kavgasına fazla daldım, ancak daha sonraları hedefe ulaşmak için doğru eylem planlarını geliştirdiğime inanıyorum. Bir süre bu eylem planlarının uygulamasında başarılı olduğumu söyleyebilirim.
 Ancak bugün hedefin bir hayli gerisinde kaldığımı görüyorum. Çünkü son bir yılda planlarımı sekteye uğratacak şekilde futbol-siyaset etkisi altına girdim. Bunlarla kendine nasıl ulaşabilirsin? Daha önce kararlaştırdığım eylem planını burada detaylandırmaya gerek yok. Fakat sakınmam gerekenleri son bir yılın tecrübesi ile söyleyebilirim. Youtube'da bana en ufak katkısı olmayan günlük siyaset ve futbol dinleme hatasına düşmemeliyim. Bunlar sadece zaman doldurmak için üretilen ve değer ifade etmeyen içerikler. Psikolojime zarar veren atıştırmalık arayışına son vermeliyim. Bu beni hem sağlıksız hissettiriyor hem de özgüvenimi düşürüyor. Bu boşlukları belirli müzikleri dinleyerek (tercihen 1940'ların Jazz'ı, Türk klasik müziği, Beethoven) ve sağlıklı beslendiğime olan inancımı ön planda tutarak kapatabilirim. Zamanın benim kontrolümde akıp gittiğini kendime hatırlatmalıyım. Sakinlik ve sessizliğin benim için büyük bir güç olduğunu aklımda tutmalıyım. Üzerimdeki yorgunluğun sadece psikolojik nedenlere dayalı olduğunu biliyorum. Zevk alarak, sonunu düşünmenin getirdiği kaygıdan uzak ve iştahla çalışmak bu sahte yorgunluğun anti-maddesidir. Ben yaratıcı bir akademisyen olmak istiyorum. Kendime şunu hatırlatmalıyım: bir projeyi, küçük bir görevi teslim etmek için değil; öğrenmek ve gelişmek için çalışıyorum. O halde neden daha fazlasını denemekten üşeniyorum.
 Bu yazının ikinci paragrafını sürekli okumalıyım. Bu ruh halini özümseyerek 'kendime ulaşabilirim'.
