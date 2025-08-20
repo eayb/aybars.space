@@ -15,12 +15,22 @@ showTags: false
 
 Hayat; içini dolduracak kadar çalışmanın, yeni şeyler öğrenmenin ve insanı tatmin edecek kadar eğlenmenin bir bütünü. 
 
+calendar
+
+logseq
+
 fedora
+
 niri
+
 waybar
+
 latex editor
 
 note-taking
+
 sioyek
+
 jabref
+
 
