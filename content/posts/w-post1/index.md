@@ -19,13 +19,13 @@ calendar
 
 logseq - manual sync with eink tablet
 
-radio
+radio - classical / jazz / country music
 
 fedora
 
 niri
 
-waybar - pomodoro timer- 50/10
+waybar - pomodoro timer- 50/10 and 2-min med before each session.
 
 latex editor
 
