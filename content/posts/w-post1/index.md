@@ -1,5 +1,5 @@
 ---
-title: "my setup"
+title: "my setup/workflow"
 # author: "aybars"
 # authorAvatarPath: "/avatar.jpeg"
 date: "2025-08-20"
@@ -14,6 +14,8 @@ showTags: false
 ---
 
 Hayat; içini dolduracak kadar çalışmanın, yeni şeyler öğrenmenin ve insanı tatmin edecek kadar eğlenmenin bir bütünü. 
+
+why having a solid workflow/setup is important?
 
 calendar
 
