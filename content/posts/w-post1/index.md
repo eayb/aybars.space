@@ -19,7 +19,7 @@ why having a solid workflow/setup is important?
 
 calendar
 
-logseq - manual sync with eink tablet
+logseq - manual sync with eink tablet or zettlr
 
 radio - classical / jazz / country music
 
